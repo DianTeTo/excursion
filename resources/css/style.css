@@ -17,11 +17,20 @@ h1, h2 {
     text-align: center;
 }
 
-.imagen {
+p {
+    color: gray;
+    font-family: Verdana;
+    font-size: 21px;
+    margin-bottom: 30px;
     text-align: center;
 }
 
-a {
+.imagen {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+a p {
     color:aquamarine;
     font-size: 16px;
     text-align: center;
