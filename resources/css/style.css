@@ -17,6 +17,10 @@ h1, h2 {
     text-align: center;
 }
 
+.imagen {
+    text-align: center;
+}
+
 a {
     color:aquamarine;
     font-size: 16px;
